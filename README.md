@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Hi there 👋
 
@@ -157,3 +158,161 @@
 
 <!-- --- -->
 
+=======
+# Tejas Landge
+
+**Founder / Full Stack Developer / Tech Educator**
+Building skills, not certificates.
+
+---
+
+## About Me (No Fluff)
+
+I’m not here to sound impressive — I’m here to be useful.
+
+I work professionally in **full stack development, real-world products, and tech education**. My work is split clearly between **industry execution** and **training** — no overlap, no confusion.
+
+I currently:
+
+- Work at **Brandodigitech Pvt. Ltd.** on the _Shops Digital Ads_ platform (product & backend execution)
+- Deliver backend training at **Code Insight Academy** (education & mentoring)
+
+I focus on _what actually gets people hired or makes products work_, not on theory-heavy, certificate-driven nonsense.
+
+I believe:
+
+- Skills > Degrees
+- Projects > Certificates
+- Execution > Motivation
+
+If something doesn’t work in the real world, I don’t teach it.
+
+---
+
+## What I Actually Do
+
+### 1. Full Stack Development
+
+- REST APIs
+- Frontend Integration (React / Tailwind)
+- Authentication & authorization
+- Database design (MySQL / PostgreSQL)
+- Performance-focused logic
+
+**Stack I use:**
+
+- Java / Spring Boot
+- Node.js / Express
+- React.js / Tailwind CSS
+- MySQL / MongoDB
+- Git + real deployment workflows
+
+---
+
+### 2. Real-World Projects
+
+I build and guide projects that:
+
+- Solve actual problems
+- Have clean architecture
+- Can be explained confidently in interviews
+
+Examples:
+
+- Employee Management Systems
+- Shop / Business Management Platforms
+- Role-based Admin Dashboards
+
+No fake “college projects”. No copy-paste tutorials.
+
+---
+
+### 3. Tech Education (Reality-Based)
+
+I help students who are tired of:
+
+- Useless syllabi
+- Confusing tutorials
+- Influencer-level motivation with zero depth
+
+What I teach:
+
+- How to think like a developer
+- How to break problems
+- How interviews _really_ work
+
+---
+
+## Professional Work & Companies
+
+### Shops Digital Ads
+
+**Brandodigitech Pvt. Ltd.**
+
+Shops Digital Ads is a business-focused digital platform built to help **local shops and small businesses go digital** — from online presence to structured data and visibility.
+
+**My Role:**
+
+- Full Stack development (Frontend + Backend)
+- API design and system logic
+- Database architecture
+- Real production workflows (not demo code)
+
+This is where I apply real-world engineering — scalability, reliability, and maintainability.
+
+---
+
+### Code Insight Academy
+
+**Tech Without Confusion**
+
+Code Insight Academy exists because colleges and most platforms fail at one thing:
+
+> Making students job-ready.
+
+**My Role:** Trainer & Full Stack Mentor
+
+### What We Focus On
+
+- Full Stack thinking (Frontend + Backend)
+- Project-based learning
+- Interview mindset
+- Skill accountability (no excuses)
+
+### What We Don’t Do
+
+- Fake placement promises
+- Certificate marketing
+- Shallow crash courses
+
+---
+
+## Why I’m Different (Straight Talk)
+
+- I don’t sell dreams — I sell skills
+- I don’t promise shortcuts — I teach systems
+- I don’t care how motivated you are — I care what you can build
+
+If you want comfort, I’m not for you.
+If you want growth, we’ll get along.
+
+---
+
+## Current Focus
+
+- Scaling Code Insight Academy
+- Building advanced backend projects
+- Creating aggressive, no-BS tech content
+
+---
+
+## Contact / Work With Me
+
+- 📩 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Website: coming soon
+- 📱 Instagram: @CodeNotCollege
+
+---
+
+> "Learning without execution is entertainment."
+>>>>>>> fe12041 (update profile)
