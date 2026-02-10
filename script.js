@@ -1,13 +1,31 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Mobile Menu Toggle
   const menuBtn = document.getElementById("menu-btn");
+  const closeMenuBtn = document.getElementById("close-menu-btn");
   const mobileMenu = document.getElementById("mobile-menu");
+  const mobileLinks = document.querySelectorAll("#mobile-menu a");
+
+  function toggleMenu() {
+    mobileMenu.classList.toggle("hidden");
+    document.body.classList.toggle("overflow-hidden"); // Prevent scrolling when menu is open
+  }
 
   if (menuBtn && mobileMenu) {
-    menuBtn.addEventListener("click", () => {
-      mobileMenu.classList.toggle("hidden");
-    });
+    menuBtn.addEventListener("click", toggleMenu);
   }
+
+  if (closeMenuBtn) {
+    closeMenuBtn.addEventListener("click", toggleMenu);
+  }
+
+  // Close menu when a link is clicked
+  mobileLinks.forEach((link) => {
+    link.addEventListener("click", () => {
+      if (!mobileMenu.classList.contains("hidden")) {
+        toggleMenu();
+      }
+    });
+  });
 
   // Typing Effect for Tagline
   const taglineElement = document.getElementById("typing-tagline");
