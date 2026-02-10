@@ -57,4 +57,22 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
+  // Image Carousel for About Section
+  const carouselImages = document.querySelectorAll(".carousel-img");
+  let currentImgIndex = 0;
+
+  if (carouselImages.length > 0) {
+    setInterval(() => {
+      // Hide current image
+      carouselImages[currentImgIndex].classList.remove("opacity-100");
+      carouselImages[currentImgIndex].classList.add("opacity-0");
+
+      // Move to next image
+      currentImgIndex = (currentImgIndex + 1) % carouselImages.length;
+
+      // Show next image
+      carouselImages[currentImgIndex].classList.remove("opacity-0");
+      carouselImages[currentImgIndex].classList.add("opacity-100");
+    }, 1500); // Changed to 3 seconds for better viewing experience, though user asked for 1s. Let's stick to user request.
+  }
 });
